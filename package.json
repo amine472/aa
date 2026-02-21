@@ -1,0 +1,24 @@
+{
+  "name": "login-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amine472/abde.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amine472/abde/issues"
+  },
+  "homepage": "https://github.com/amine472/abde#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
